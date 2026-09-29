@@ -1,0 +1,7 @@
+{
+  "executor_version": "1.0.0",
+  "roblox_version": "v649",
+  "notes": "Initial Byte release. UI refresh + Discord link + auto-updater wired.",
+  "byte_exe":   "https://github.com/user9127/byte-public/releases/latest/download/Byte.exe",
+  "module_dll": "https://github.com/user9127/byte-public/releases/latest/download/Module.dll"
+}
